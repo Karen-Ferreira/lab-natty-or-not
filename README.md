@@ -19,25 +19,30 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto "Niterói Futurista"
+
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Utilizei a IA para tentar vizualizar como seria o futuro da cidade onde eu moro, Niterói/RJ, se adotássemos enquanto sociedade, uma postura mais sustentável, , com menos consumo, vivendo em harmonia com a natureza, valorizando nossas comunidades tradicionais e respeitando nossas diversidades. 
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+Para gerar os videos, utilizei o recurso texto para imagem. Utilizei as IAS do HAIPER e do CANVA para criar o video, o CAPCUT para ediçao  e o LOUDLY para criar a música. 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para gerar as imagens utilizei principalmente o conceito de afrofuturismo, e tentei orientar a IA a partir da descriçao de tudo que eu imaginava como um futuro mais sustentavel. 
+
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Apresente os resultados do seu projeto.
+
+https://youtu.be/JP6c74qCVlA
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
+``` Criar o vídeo com os recursos da IA foi mais fácil do que imaginava, no inicio tive um pouco de dificuldades para orientar através do texto o que eu realmente queria, mas depois consegui adaptar. As IAS que utilizei tem dificuldades de gerar imagens de locais específicos, também tem dificuldades de gerar imagens mais naturais de pessoas negras e indígenas. 
+Os
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
